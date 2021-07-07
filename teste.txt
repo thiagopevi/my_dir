@@ -1,1 +1,2 @@
 Meu novo documento de texto.
+Essa é uma segunda linha que escrevo para testar o git.
