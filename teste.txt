@@ -1,2 +1,6 @@
 Meu novo documento de texto.
 Essa é uma segunda linha que escrevo para testar o git.
+Finalmente consegui fazer o que era pedido. O repositório está no GitHub.
+Vamos ver agora o que se sucede.
+
+Tudo bem?
